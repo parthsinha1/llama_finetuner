@@ -24,12 +24,12 @@ This model is a LoRA-finetuned version of [meta-llama/Llama-3.2-1B](https://hugg
 
 ### Model Sources
 
-- **Repository:** [your GitHub repo](https://github.com/parthsinha1/fine-tuning-project)
+- **Repository:** [your GitHub repo](https://github.com/parthsinha1/llama_finetuner)
 
 ## Uses
 
 ### Direct Use
-- Instruction-following conversational AI, text generation, educational bots.
+- Instruction-following conversational AI, text generation, and other educational bots.
 
 ### Downstream Use
 - Can be further fine-tuned for more specific tasks.
@@ -123,7 +123,7 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
   title={Llama-3.2-1B LoRA Fine-Tuned on Alpaca},
   author={Sinha, Parth},
   year={2025},
-  url={https://github.com/parthsinha1/fine-tuning-project}
+  url={https://github.com/parthsinha1/llama_finetuner}
 }
 ```
 
@@ -131,7 +131,7 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 - Parth Sinha
 
 ## Model Card Contact
-- [your email or GitHub]
+- https://github.com/parthsinha1
 ### Framework versions
 
 - PEFT 0.16.0
