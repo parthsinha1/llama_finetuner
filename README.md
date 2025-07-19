@@ -24,12 +24,23 @@ This model is a LoRA-finetuned version of [meta-llama/Llama-3.2-1B](https://hugg
 
 ### Model Sources
 
-- **Repository:** [your GitHub repo](https://github.com/parthsinha1/llama_finetuner)
+- **Repository:** [GitHub repo](https://github.com/parthsinha1/llama_finetuner)
 
 ## Uses
 
+This model is intended for research, experimentation, and educational purposes. It can be used for:
+
+- Instruction-following conversational AI
+- Text generation
+- Educational bots and chatbots
+- Prototyping personal assistants
+- Summarization and simple question answering
+- Demonstrating large language model capabilities
+
 ### Direct Use
-- Instruction-following conversational AI, text generation, and other educational bots.
+
+- You can use this model for direct text generation tasks by providing prompts and receiving generated responses, suitable for interactive applications, chatbots, and other instructional bots.
+
 
 ### Downstream Use
 - Can be further fine-tuned for more specific tasks.
